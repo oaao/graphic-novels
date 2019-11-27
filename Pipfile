@@ -10,6 +10,7 @@ networkx = "*"
 matplotlib = "*"
 jupyter = "*"
 pandas = "*"
+imageio = "*"
 
 [requires]
 python_version = "3.7"
